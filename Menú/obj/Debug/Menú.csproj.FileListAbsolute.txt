@@ -1,0 +1,12 @@
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Menú\Menú\bin\Debug\Menú.exe.config
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Menú\Menú\bin\Debug\Menú.exe
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Menú\Menú\bin\Debug\Menú.pdb
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Menú\Menú\obj\Debug\Menú.csproj.AssemblyReference.cache
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Menú\Menú\obj\Debug\Menú.csproj.SuggestedBindingRedirects.cache
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Menú\Menú\obj\Debug\Menú.Form1.resources
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Menú\Menú\obj\Debug\Menú.Properties.Resources.resources
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Menú\Menú\obj\Debug\Menú.csproj.GenerateResource.cache
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Menú\Menú\obj\Debug\Menú.csproj.CoreCompileInputs.cache
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Menú\Menú\obj\Debug\Menú.exe
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Menú\Menú\obj\Debug\Menú.pdb
+D:\Desarrolo de Software 1° año\Programacion\Visual Studio\Menú\Menú\obj\Debug\Menú.Form2.resources
